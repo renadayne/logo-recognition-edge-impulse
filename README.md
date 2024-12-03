@@ -1,5 +1,5 @@
 # Logo Recognition using Edge Impulse
-A real-time vehicle logo recognition system using Edge Impulse. This topic was provided by PhD. Hung Nguyen Kiem
+A real-time vehicle logo recognition system using Edge Impulse.
 
 ## Getting Started 
 
